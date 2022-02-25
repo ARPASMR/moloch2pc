@@ -66,7 +66,6 @@ function print_data(args)
 * Now write the data values to text file: first line...
 * -----------------------------------------------------
   i = 2; line = sublin(buffer,i)
-*  say 'linea 2: 'line' 'i
   if ( write_(file,line) > 0 ); return -2; endif
  
 * Append subsequent lines
