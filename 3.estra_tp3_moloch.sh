@@ -52,5 +52,4 @@ fi
 
 echo "----- FINE elaborazione dati con $nomescript alle ore `date`-------"
 echo
-
 exit
