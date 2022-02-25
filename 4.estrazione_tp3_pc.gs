@@ -9,7 +9,6 @@ function main(args)
 rc = gsfallow("on")
 'q config'
 
-
 *** lettura parametri riga comando
 say ''
 say 'GRADS: ---- ARGOMENTI PASSATI a estrazione_tp3_pc.gs: 'args' -------'
